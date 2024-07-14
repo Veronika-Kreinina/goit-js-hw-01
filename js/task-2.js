@@ -1,5 +1,3 @@
-console.log("hello second")
-
 function getShippingMessage(country, price, deliveryFee) {
 
     const totalPrice = price + deliveryFee;
